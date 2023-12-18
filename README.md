@@ -1,2 +1,2 @@
 # RegistrationForm
-Mechine test result is attatched in above file
+Mechine test result is attatched in above code section
